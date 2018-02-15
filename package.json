@@ -11,9 +11,13 @@
 },
 "description": "this is the timestamp challenge for FCC",
 "main": "app.js",
+
 "scripts": {
 "start": "node app.js"
+
 },
 "author": "john gillespie",
 "license": "UNLICENSED"
 }
+ scripts: start
+
