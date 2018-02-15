@@ -1,23 +1,15 @@
-
 {
-"name": "Mainframe",
-"version": "1.0.0",
-"dependencies": {
-"express": "^4.14.0",
-"moment": "^2.15.1"
-},
-"engines": {
-"node": "4.6.1"
-},
-"description": "this is the timestamp challenge for FCC",
-"main": "app.js",
-
-"scripts": {
-"start": "node app.js"
-
-},
-"author": "john gillespie",
-"license": "UNLICENSED"
+  "name": "Mainframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "author": "Marius0075645",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
- scripts: start
-
